@@ -1,3 +1,7 @@
+Projeto utilizado para aprendizado no estudo do livro Desbravando Solid, do autor Alexandre Aquiles
+
+Ao longo do livro, é feito um trabalho de melhoria do código, partindo de um código totalmente acoplado para um código limpo e com a aplicação dos princípios SOLID
+
 # Cotuba
 
 Gerador de ebooks escritos no formato Markdown (`.md`) para os formatos EPUB e PDF.
